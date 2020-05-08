@@ -1,0 +1,23 @@
+{
+    "name": "typescript-base-grammar",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/xiaminxi/typescript-base-grammar.git"
+    },
+    "author": "xiaminxi <1044485881@qq.com>",
+    "license": "MIT",
+    "description": "<!--\r  * @Author: xiaminxi \r  * @Date: 2020-05-08 22:38:30\r  * @LastEditors: xiaminxi\r  * @LastEditTime: 2020-05-08 23:13:45\r  * @Description: 项目说明文件\r  -->",
+    "bugs": {
+        "url": "https://github.com/xiaminxi/typescript-base-grammar/issues"
+    },
+    "homepage": "https://github.com/xiaminxi/typescript-base-grammar#readme",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "devDependencies": {
+        "@types/node": "^13.13.5"
+    }
+}
